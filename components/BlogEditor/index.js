@@ -43,9 +43,8 @@ const BlogEditor = ({ post, close, refresh }) => {
 
   return (
     <div
-      className={`fixed z-10 w-screen h-screen overflow-auto top-0 flex flex-col items-center ${
-        theme === "dark" ? "bg-black" : "bg-white"
-      }`}
+      className={`fixed z-10 w-screen h-screen overflow-auto top-0 flex flex-col items-center ${theme === "dark" ? "bg-black" : "bg-white"
+        }`}
     >
       <div className="container my-20">
         <div className="mt-10">

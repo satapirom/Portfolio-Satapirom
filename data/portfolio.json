@@ -1,1 +1,143 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+    "name": "{...}",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Satapirom Khawatthu",
+    "headerTaglineThree": "Software Developer",
+    "headerTaglineFour": "",
+    "showCursor": true,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/satapirom"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/satapirom"
+      },
+      {
+        "id": "3",
+        "title": "Email",
+        "link": "https://mail.google.com/mail/?view=cm&fs=1&to=Satapirom.khawatthu@gmail.com"
+      }
+
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Final Project E-commerce Web Application ",
+        "description": "Developed a user interface (UI) using React. Created the backend server using Node.js to handle client requests. Stored data in a NoSQL database using MongoDB.",
+        "imageSrc": "https://images.unsplash.com/photo-1713713717722-65141fc754bd?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "url": "https://front-end-06-lalafell.vercel.app/"
+      },
+      {
+        "id": "2",
+        "title": "Project E-commerce Grocery Store",
+        "description": "Web Development HTML CSS JavaScript ",
+        "imageSrc": "https://images.unsplash.com/photo-1517281920527-f3a1a53a9af3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "url": "https://bak-chokh-wedpage-design.onrender.com/"
+      },
+      {
+        "id": "3",
+        "title": "Mini-Project Happy You Happy Cat",
+        "description": "Web Development HTML CSS",
+        "imageSrc": "https://gratisography.com/wp-content/uploads/2023/05/gratisography-colorful-cat-free-stock-photo-1170x780.jpg",
+        "url": "https://happy-you-happy-cat.vercel.app/"
+      }
+    ],
+
+    "services": [
+      {
+        "id": "1",
+        "title": "Art Direction",
+        "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      },
+      {
+        "id": "2",
+        "title": "Branding",
+        "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      },
+      {
+        "id": "3",
+        "title": "Web Design",
+        "description": "We build and optimize your online presence. Website is the digital entry point into your business and a powerful revenue channel."
+      },
+      {
+        "id": "4",
+        "title": "3D Design",
+        "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      }
+    ],
+    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+   
+    "resume": {
+      "tagline": "👋  I'm a software Developer.",
+      "description": "I graduated from Generation's Junior Software Developer Bootcamp. skills in HTML, CSS, Tailwind, Node.js, Express, and MongoDB, I have over 5 years of experience in research and development.  which allowed me to develop problem-solving skills and analytical abilities. combined communicating within diverse team environments. ",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "March 2024 - July 2024",
+          "type": "Bootcamp Online Course Full Time",
+          "position": "Junior Software DeveloperJunior Software Developer Bootcamp Cohort 7 at Generation Thailand.",
+          "bullets": "Practiced fundamental programming and coding with the MERN stack (MongoDB, Express.js, React, Node.js), and honed web application development skills. \n Designed and implemented an e-commerce web application for the final project under mentor supervision, integrating Agile methods for project planning and management.\n Practiced behavioral skills and mindsets, such as a growth mindset, effective communication, collaborative teamwork, efficient time management, accountability, and adept problem-solving."
+
+        },
+        {
+          "id": "2",
+          "dates": "March 2023 - October 2023",
+          "type": "Full Time",
+          "position": "Product Specialist at Chem Sources Ltd., Part.",
+          "bullets": "Identified and developed unique selling propositions for new products by analyzing market trends and competitor offerings.\n Designed posters, advertisements, documents, and print media for online platforms, which contributed to increased brand visibility.\nAuthored technical articles for the company website, enhancing customer knowledge and trust.\nTrained sales teams, boosting their confidence and sales effectiveness.\n Analyzed and resolved production process issues for clients, improving efficiency and resulting in repeat purchases. "
+        },
+        {
+          "id": "3",
+          "dates": "March 2021 - March 2023",
+          "type": "Full Time",
+          "position": "R&D at Thaiva Laboratories CO., Ltd.",
+          "bullets": "Formulated development plans and executed tests for new formulations leading to a 20% improvement in product efficiency.\n Created flowcharts detailing production processes, enhancing operational clarity and efficiency.\n Risk assessments, identifying critical values, and implementing preventive measures to mitigate production risks.\n Utilized systematic problem-solving techniques to address production challenges, minimizing downtime and maximizing productivity"
+        },
+        {
+          "id": "4",
+          "dates": "October 2017 - February 2021",
+          "type": "Full Time",
+          "position": "R&D Analysis at Nova Medicine CO., Ltd.",
+          "bullets": "Analyzed data, ensured pharmaceutical quality, & maintained lab equipment.\n Collaborated with cross-functional teams to optimize data analysis workflows."
+        }
+      ],
+      "education": {
+        "universityName": "ฺBachelor of Chemistry at Kamphaeng Phet Rajabhat Universit",
+        "universityDate": "2013-2024"
+      },
+      "Training": {
+        "CertificateName": "QA Manual tester and API testing with Postman, Online Certificate",
+        "universityDate": "2023"
+      },
+      "languages": [
+        "Javascript",
+        "HTML5",
+        "CSS"
+      ],
+      "frameworks": [
+        "React",
+        "NodeJs",
+        "TailwindCss",
+        "Dasy ui"
+      ],
+      "databases": [
+        "MongoDB",
+        "SQL"
+      ],
+      "others": [
+        "Git/GitHub", 
+        "Postman",  
+        "Figma", 
+        "AI", 
+        "Prompt Engineering"
+      ]
+    }
+  }
+  

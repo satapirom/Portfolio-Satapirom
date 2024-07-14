@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Moo Lah Lah
+- Font Author: Copyright 2003-2021 The Moo Lah Lah Project Authors (https://github.com/googlefonts/moolahlah)
+- Font Source: https://fonts.gstatic.com/s/moolahlah/v6/dg4h_p_opKZOA0w1AYcm55wtYQYugjW4.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

@@ -33,17 +33,15 @@ const Resume = () => {
       )}
       {data.showCursor && <Cursor />}
       <div
-        className={`container mx-auto mb-10 ${
-          data.showCursor && "cursor-none"
-        }`}
+        className={`container mx-auto mb-10 ${data.showCursor && "cursor-none"
+          }`}
       >
         <Header isBlog />
         {mount && (
           <div className="mt-10 w-full flex flex-col items-center">
             <div
-              className={`w-full ${
-                mount && theme.theme === "dark" ? "bg-slate-800" : "bg-gray-50"
-              } max-w-4xl p-20 mob:p-5 desktop:p-20 rounded-lg shadow-sm`}
+              className={`w-full ${mount && theme.theme === "dark" ? "bg-slate-800" : "bg-gray-50"
+                } max-w-4xl p-20 mob:p-5 desktop:p-20 rounded-lg shadow-sm`}
             >
               <h1 className="text-3xl font-bold">{name}</h1>
               <h2 className="text-xl mt-5">{resume.tagline}</h2>
@@ -103,6 +101,18 @@ const Resume = () => {
                         {resume.frameworks.map((framework, index) => (
                           <li key={index} className="ml-5 py-2">
                             {framework}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+                  {resume.databases && (
+                    <div className="mt-2 mob:mt-5">
+                      <h2 className="text-lg">databases</h2>
+                      <ul className="list-disc">
+                        {resume.databases.map((databases, index) => (
+                          <li key={index} className="ml-5 py-2">
+                            {databases}
                           </li>
                         ))}
                       </ul>

@@ -9,9 +9,9 @@ const Cursor = () => {
 
   const getCusomColor = () => {
     if (theme.theme === "dark") {
-      return "#fff";
+      return "#FFA45B";
     } else if (theme.theme === "light") {
-      return "#000";
+      return "#FF7994";
     }
   };
 
