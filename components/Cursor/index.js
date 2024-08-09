@@ -1,31 +1,36 @@
+
 import React, { useEffect, useState } from "react";
 import CustomCursor from "custom-cursor-react";
 import "custom-cursor-react/dist/index.css";
 import { useTheme } from "next-themes";
 
 const Cursor = () => {
-  const theme = useTheme();
-  const [mount, setMount] = useState();
+  const { theme } = useTheme(); // Destructure theme from useTheme
+  const [mounted, setMounted] = useState(false); // Initialize state as false
 
-  const getCusomColor = () => {
-    if (theme.theme === "dark") {
-      return "#FFA45B";
-    } else if (theme.theme === "light") {
-      return "#FF7994";
+  const getCustomColor = () => {
+    switch (theme) {
+      case "dark":
+        return "#FFA45B";
+      case "light":
+        return "#FF7994";
+      default:
+        return "#FF7994"; // Default color
     }
   };
 
   useEffect(() => {
-    setMount(true);
+    setMounted(true);
   }, []);
+
   return (
     <>
-      {mount && (
+      {mounted && (
         <CustomCursor
           targets={[".link"]}
           customClass="custom-cursor"
           dimensions={30}
-          fill={getCusomColor()}
+          fill={getCustomColor()}
           smoothness={{
             movement: 0.2,
             scale: 0.1,
@@ -40,3 +45,4 @@ const Cursor = () => {
 };
 
 export default Cursor;
+

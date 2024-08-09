@@ -31,21 +31,21 @@
         "id": "1",
         "title": "Final Project E-commerce Web Application ",
         "description": "Developed a user interface (UI) using React. Created the backend server using Node.js to handle client requests. Stored data in a NoSQL database using MongoDB.",
-        "imageSrc": "https://images.unsplash.com/photo-1713713717722-65141fc754bd?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "imageSrc": "/images/img-keyboard.jpg",
         "url": "https://front-end-06-lalafell.vercel.app/"
       },
       {
         "id": "2",
         "title": "Project E-commerce Grocery Store",
         "description": "Web Development HTML CSS JavaScript ",
-        "imageSrc": "https://images.unsplash.com/photo-1517281920527-f3a1a53a9af3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "imageSrc": "images/img-grocery.jpg",
         "url": "https://bak-chokh-wedpage-design.onrender.com/"
       },
       {
         "id": "3",
         "title": "Mini-Project Happy You Happy Cat",
         "description": "Web Development HTML CSS",
-        "imageSrc": "https://gratisography.com/wp-content/uploads/2023/05/gratisography-colorful-cat-free-stock-photo-1170x780.jpg",
+        "imageSrc": "/images/img-catfeed.jpg",
         "url": "https://happy-you-happy-cat.vercel.app/"
       }
     ],
@@ -75,8 +75,8 @@
     "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
    
     "resume": {
-      "tagline": "👋  I'm a software Developer.",
-      "description": "I graduated from Generation's Junior Software Developer Bootcamp. skills in HTML, CSS, Tailwind, Node.js, Express, and MongoDB, I have over 5 years of experience in research and development.  which allowed me to develop problem-solving skills and analytical abilities. combined communicating within diverse team environments. ",
+      "tagline": "👋  Hello, my name is Satapirom Khawatthu.",
+      "description": "I graduated from Generation's Junior Software Developer Bootcamp. With over 5 years of experience in research and development with hands-on experience in the MERN stack and an understanding of the software development lifecycle, which allowed me to develop problem-solving skills and analytical abilities combined with communication within diverse team environments. I am confident my diverse work experience will be valuable to the team. I am motivated to apply my previous work experiences and newly developed technical skills to launch my career in the tech sector. ",
       "experiences": [
         {
           "id": "1",
