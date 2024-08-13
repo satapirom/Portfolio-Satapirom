@@ -49,38 +49,14 @@
         "url": "https://happy-you-happy-cat.vercel.app/"
       }
     ],
-
-    "services": [
-      {
-        "id": "1",
-        "title": "Art Direction",
-        "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
-      },
-      {
-        "id": "2",
-        "title": "Branding",
-        "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
-      },
-      {
-        "id": "3",
-        "title": "Web Design",
-        "description": "We build and optimize your online presence. Website is the digital entry point into your business and a powerful revenue channel."
-      },
-      {
-        "id": "4",
-        "title": "3D Design",
-        "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
-      }
-    ],
-    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-   
+    
     "resume": {
       "tagline": "👋  Hello, my name is Satapirom Khawatthu.",
       "description": "I graduated from Generation's Junior Software Developer Bootcamp. With over 5 years of experience in research and development with hands-on experience in the MERN stack and an understanding of the software development lifecycle, which allowed me to develop problem-solving skills and analytical abilities combined with communication within diverse team environments. I am confident my diverse work experience will be valuable to the team. I am motivated to apply my previous work experiences and newly developed technical skills to launch my career in the tech sector. ",
       "experiences": [
         {
           "id": "1",
-          "dates": "March 2024 - July 2024",
+          "dates": "April 2024 - July 2024",
           "type": "Bootcamp Online Course Full Time",
           "position": "Junior Software DeveloperJunior Software Developer Bootcamp Cohort 7 at Generation Thailand.",
           "bullets": "Practiced fundamental programming and coding with the MERN stack (MongoDB, Express.js, React, Node.js), and honed web application development skills. \n Designed and implemented an e-commerce web application for the final project under mentor supervision, integrating Agile methods for project planning and management.\n Practiced behavioral skills and mindsets, such as a growth mindset, effective communication, collaborative teamwork, efficient time management, accountability, and adept problem-solving."
@@ -88,14 +64,14 @@
         },
         {
           "id": "2",
-          "dates": "March 2023 - October 2023",
+          "dates": "May 2023 - April 2024",
           "type": "Full Time",
           "position": "Product Specialist at Chem Sources Ltd., Part.",
           "bullets": "Identified and developed unique selling propositions for new products by analyzing market trends and competitor offerings.\n Designed posters, advertisements, documents, and print media for online platforms, which contributed to increased brand visibility.\nAuthored technical articles for the company website, enhancing customer knowledge and trust.\nTrained sales teams, boosting their confidence and sales effectiveness.\n Analyzed and resolved production process issues for clients, improving efficiency and resulting in repeat purchases. "
         },
         {
           "id": "3",
-          "dates": "March 2021 - March 2023",
+          "dates": "March 2021 - April 2023",
           "type": "Full Time",
           "position": "R&D at Thaiva Laboratories CO., Ltd.",
           "bullets": "Formulated development plans and executed tests for new formulations leading to a 20% improvement in product efficiency.\n Created flowcharts detailing production processes, enhancing operational clarity and efficiency.\n Risk assessments, identifying critical values, and implementing preventive measures to mitigate production risks.\n Utilized systematic problem-solving techniques to address production challenges, minimizing downtime and maximizing productivity"

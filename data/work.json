@@ -1,0 +1,15 @@
+{
+    "showBlog": true,
+    "showCursor": true,
+    "posts": [
+        {
+            "slug": "example-post",
+            "title": "Mini-Project Happy You Happy Cat",
+            "image": "/images/img-catfeed.jpg",
+            "url": "https://happy-you-happy-cat.vercel.app/",
+            "preview": "Web Development HTML CSS only.",
+            "author": "Author Name",
+            "date": "2024 may"
+        }
+    ]
+}
