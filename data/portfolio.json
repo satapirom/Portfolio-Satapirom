@@ -29,10 +29,11 @@
     "projects": [
       {
         "id": "1",
-        "title": "Final Project E-commerce Web Application ",
-        "description": "Developed a user interface (UI) using React. Created the backend server using Node.js to handle client requests. Stored data in a NoSQL database using MongoDB.",
+        "title": "Lalafell keyboard Web Application ",
+        "description": "Developed a full stack custom keyboard e-commerce platform that allows users to design and purchase personalized keyboards.",
+        "technologiesUsed": ["React", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
         "imageSrc": "/images/img-keyboard.jpg",
-        "url": "https://front-end-06-lalafell.vercel.app/"
+        "url": "https://lalafell-keyboard-project-nddk.vercel.app/"
       },
       {
         "id": "2",
