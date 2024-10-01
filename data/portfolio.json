@@ -33,7 +33,7 @@
         "description": "Developed a full stack custom keyboard e-commerce platform that allows users to design and purchase personalized keyboards.",
         "technologiesUsed": ["React", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
         "imageSrc": "/images/img-keyboard.jpg",
-        "url": "https://lalafell-keyboard-project-nddk.vercel.app/"
+        "url": "https://lalafell-frontend-project.vercel.app/"
       },
       {
         "id": "2",
